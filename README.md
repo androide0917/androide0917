@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yuber García AKA:@androide0917
-- 👀 I’m interested in Mobile Software Development and Mobile Game development
-- 🌱 I’m currently improving my English skills
+- 👀 Interested in Mobile Software Development and Mobile Game development
+- 🇺🇸 Currently improving my English skills
+- 🇨🇴 Based on Medellin Colombia
 
 <!---
 androide0917/androide0917 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
